@@ -1183,10 +1183,11 @@ class ProfilePage extends StatelessWidget {
 ```
 
 **TODO สำหรับนักศึกษา:**
-- [ ] เปลี่ยนชื่อและรหัสนักศึกษาให้เป็นของตัวเอง
-- [ ] เปลี่ยนข้อมูลในแถวข้อมูลให้เป็นของตัวเอง
-- [ ] เพิ่ม Row ข้อมูลเพิ่มเติมอีก 2 แถว
-- [ ] ลองเปลี่ยนสี Theme จาก `Colors.teal` เป็นสีอื่น
+- [ ✅] เปลี่ยนชื่อและรหัสนักศึกษาให้เป็นของตัวเอง
+- [ ✅] เปลี่ยนข้อมูลในแถวข้อมูลให้เป็นของตัวเอง
+- [ ✅] เพิ่ม Row ข้อมูลเพิ่มเติมอีก 2 แถว
+- [✅ ] ลองเปลี่ยนสี Theme จาก `Colors.teal` เป็นสีอื่น
+<img width="1367" height="1020" alt="image" src="https://github.com/user-attachments/assets/25413f1f-5167-4139-856c-5a72e78201b3" />
 
 ---
 
@@ -1732,6 +1733,7 @@ Flutter Version: ___________________
 Dart Version: ______________________
 Android SDK Version: _______________
 ```
+<img width="912" height="292" alt="image" src="https://github.com/user-attachments/assets/f0a4ffb2-55d1-426c-bf28-8e12624003bc" />
 
 ### 3.2 Screenshot ของ Flutter App
 
