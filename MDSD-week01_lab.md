@@ -1737,9 +1737,8 @@ Android SDK Version: _______________
 
 ### 3.2 Screenshot ของ Flutter App
 
-```
-[แนบ Screenshot ของ Profile Card App ที่สร้าง]
-```
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/4421e2fc-f951-4a95-b3c3-a3373cd4bf81" />
+
 
 **Widget Tree ที่วาด:**
 
